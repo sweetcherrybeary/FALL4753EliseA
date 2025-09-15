@@ -15,3 +15,4 @@ Encoding: UTF-8
 LazyData: true
 URL: https://github.com/sweetcherrybeary/FALL4753EliseA
 BugReports: https://github.com/sweetcherrybeary/FALL4753EliseA/issues
+RoxygenNote: 7.3.2
