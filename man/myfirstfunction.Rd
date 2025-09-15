@@ -2,7 +2,7 @@
 % Please edit documentation in R/myfirstfunction.R
 \name{myfirstfunction}
 \alias{myfirstfunction}
-\title{Title}
+\title{Myfirstfunction}
 \usage{
 myfirstfunction(x)
 }
@@ -13,7 +13,7 @@ myfirstfunction(x)
 A list with components 'x' and 'y', where 'y' is the square of 'x'
 }
 \description{
-Title
+Myfirstfunction
 }
 \examples{
 myfirstfunction(1:10)

@@ -1,4 +1,4 @@
-#' Title
+#' Myfirstfunction
 #'
 #' @param x A numeric vector.
 #'
